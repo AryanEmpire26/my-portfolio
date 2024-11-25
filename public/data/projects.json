@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Crypto Currency WebApp",
+    "description": " Develop a responsive cryptocurrency website using real-time APIs for market data, featuring dynamic visualizations and seamless updates on current trends.",
+    "image": "/assets/images/projects/crypto.png",
+     
+    "viewLink": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+    "codeLink": "https://github.com/jigar-sable/notystack-android"
+  },
+  {
+    "id": 2,
+    "title": "Google Keep Clone",
+    "description": "This project is a Google Keep clone built with React, enabling users to create, edit, and delete notes with a user-friendly interface and local storage for data persistence.",
+    "image": "/assets/images/projects/keepclone.png",
+    
+    "viewLink": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+    "codeLink": "https://github.com/jigar-sable/sppu-prep-android"
+  },
+  {
+    "id": 3,
+    "title": "Movie Library",
+    "description": "Created a full-stack Movie Library app with user authentication, personal lists, and OMDB API integration, deployed on Render with MongoDB Atlas.",
+    "image": "/assets/images/projects/movielib.png",
+    
+    "viewLink": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+    "codeLink": "https://github.com/jigar-sable/newsbox-android"
+  },
+  {
+    "id": 4,
+    "title": "Web Chat",
+    "description": "Built a chat app with the MERN stack and Socket.io for real-time communication, featuring JWT authentication and a responsive UI with Redux.",
+    "image": "/assets/images/projects/chat.png",
+     
+    "viewLink": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+    "codeLink": "https://github.com/jigar-sable/weatherly-android"
+  },
+  {
+    "id": 5,
+    "title": "Customer Management System",
+    "description": "Created a headless CMS for seamless content management via API, enabling flexible integration with various frontends and dynamic content delivery.",
+    "image": "/assets/images/projects/cms.png",
+    
+    "viewLink": "https://instagramernstack.herokuapp.com/",
+    "codeLink": "https://github.com/jigar-sable/instagram-mern"
+  },
+  {
+    "id": 6,
+    "title": "React Video Player",
+    "description": "Developed a React video player that supports multiple video formats, features playback controls, and offers a customizable interface for an enhanced user experience.",
+    "image": "/assets/images/projects/videoplayer.png",
+    
+    "viewLink": "https://flipkartwebs.herokuapp.com/",
+    "codeLink": "https://github.com/jigar-sable/flipkart-mern"
+  },
+  {
+    "id": 7,
+    "title": "Todo List",
+    "description": "Created a Todo List application that allows users to add, edit, and delete tasks, featuring a user-friendly interface and local storage for data persistence.",
+    "image": "/assets/images/projects/todo.png",
+    
+    "viewLink": "https://resumegenx.netlify.app/",
+    "codeLink": "https://github.com/jigar-sable/resumegen"
+  },
+  {
+    "id": 8,
+    "title": "Weather ",
+    "description": "Built a React weather app that delivers real-time weather data and forecasts with a user-friendly interface.",
+    "image": "/assets/images/projects/weather.png",
+    
+    "viewLink": "https://reactjsprojects.herokuapp.com/",
+    "codeLink": "https://github.com/jigar-sable/React-Projects"
+  },
+  {
+    "id": 9,
+    "title": "Simon Game",
+    "description": "Developed a Simon game in JavaScript that challenges players to repeat a sequence of colors and sounds with increasing difficulty.",
+    "image": "/assets/images/projects/simon.png",
+     
+    "viewLink": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+    "codeLink": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+  },
+  {
+    "id": 10,
+    "title": "Movie Database",
+    "description": "Built a movie database application in C++ that allows users to add, search, and manage movie entries, featuring a command-line interface for easy navigation.",
+    "image": "/assets/images/projects/moviedb.png",
+     
+    "viewLink": "https://jigar-sable.github.io/JavaScript-Projects",
+    "codeLink": "https://github.com/jigar-sable/JavaScript-Projects"
+  },
+  {
+    "id": 11,
+    "title": "Tinder for Dogs ",
+    "description": "Developed a Tinder-like webpage for dogs using only HTML, CSS, and JavaScript, featuring user profiles, swipe functionality, and a visually appealing layout for dog lovers.",
+    "image": "/assets/images/projects/tindog.png",
+    
+    "viewLink": "https://github.com/jigar-sable/web-ui-clones",
+    "codeLink": "https://github.com/jigar-sable/web-ui-clones"
+  },
+  {
+    "id": 12,
+    "title": "About a company",
+    "description": "Built a webpage for a service-providing company to showcase details and services with a clean, responsive design.",
+    "image": "/assets/images/projects/webpage.png",
+    
+    "viewLink": "https://crypto-tracker-react-project.netlify.app/",
+    "codeLink": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+  },
+  {
+    "id": 13,
+    "title": "Drum kit",
+    "description": "Developed a drum kit web application using HTML, CSS, and JavaScript that allows users to play different drum sounds by clicking on visual elements or using keyboard keys.",
+    "image": "/assets/images/projects/drumkit.png",
+    
+    "viewLink": "https://hulu-clone-jigar-sable.vercel.app/",
+    "codeLink": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+  },
+  {
+    "id": 14,
+    "title": "Tic Tac Toe Android App",
+    "description": "Created a Tic Tac Toe game for Android that allows users to play against each other or the computer, featuring an intuitive interface and score tracking.",
+    "image": "/assets/images/projects/tic-tac.png",
+     
+    "viewLink": "#",
+    "codeLink": "https://github.com/jigar-sable/Portfolio-Website"
+  },
+  {
+    "id": 15,
+    "title": "Mass Mail Dispatcher",
+    "description": "Built a web application, implementing CSV file processing, email validation, and bulk email dispatching features.",
+    "image": "/assets/images/projects/emaildispatcher.png",
+     
+    "viewLink": "https://composey.netlify.app/",
+    "codeLink": "https://github.com/jigar-sable/LGMVIP-WebDev"
+  },
+  {
+    "id": 16,
+    "title": "Portfolio",
+    "description": "Developed a portfolio featuring a sticky navbar, hero section, contact information, dynamic projects and recommendations sections, and a skills page with an add skill feature and API integrations.",
+    "image": "/assets/images/projects/portofolio.png",
+     
+    "viewLink": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
+    "codeLink": "https://github.com/jigar-sable/Android-Webview"
+  }
+]
